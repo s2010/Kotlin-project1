@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="signup">sign up</string>
+    <string name="signin">Sign in</string>
+    <string name="enter_username">enter username</string>
+    <string name="enter_password">enter password</string>
+    <string name="hello_welcome"><![CDATA[Hello & Welcome]]></string>
+    <string name="to_shoe_store">To the awesome shoe store</string>
+    <string name="start">Start your List</string>
+    <string name="instaction">App Instructions</string>
+    <string name="instraction2">Please click on Continue to start your shoe list</string>
+    <string name="button">button</string>
+    <string name="continue_button">Continue</string>
+    <string name="logout">Logout</string>
+    <string name="shoe_name">Shoe Name</string>
+    <string name="company_name">Company Name</string>
+    <string name="shoe_size">Shoe Size</string>
+    <string name="description">Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+</resources>
